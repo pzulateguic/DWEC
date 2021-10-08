@@ -1,0 +1,32 @@
+pseudocodigo
+
+Clase vehiculo
+    atributo marca : marca
+    atributo motor : motor
+
+    constructor (marca : marca , motor : motor)
+        inicio
+                instancia.marca <- motor
+                instancia.motor <- marca
+
+
+Clase Marca
+    atributo marca : marca
+    atributo motor : motor
+
+    constructor (marca : marca , motor : motor)
+        inicio
+                instancia.marca <- motor
+                instancia.motor <- marca
+
+
+Clase Motor
+    atributo marca : marca
+    atributo motor : motor
+
+    constructor (marca : marca , motor : motor)
+        inicio
+                instancia.marca <- motor
+                instancia.motor <- marca                
+
+<>
