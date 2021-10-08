@@ -14,6 +14,8 @@ Objeto. Un objeto es una instancia de una clase. La clase puede tener un método
 
 Instancia. Una instancia en programación no es otra cosa que una referencia de una clase hacia otra con lo cual permite a ambas clases ínteractuar entre si
 
+Java.
+
 - DISEÑO
 
 
@@ -21,6 +23,14 @@ Instancia. Una instancia en programación no es otra cosa que una referencia de 
 
 
 - PRUEBAS
+
+<img src="Captura.PNG">
+
+
+<img src="Captura1.PNG">
+
+
+<img src="Captura2.PNG">
 - 
   
 
